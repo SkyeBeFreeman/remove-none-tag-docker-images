@@ -26,5 +26,4 @@ sudo docker images
 echo "\n"
 
 # 结束
-echo "end\n"
-
+echo "endd\n"
