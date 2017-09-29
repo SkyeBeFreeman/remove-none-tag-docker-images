@@ -24,3 +24,6 @@ echo "\n"
 echo "5. the current images:"
 sudo docker images
 echo "\n"
+
+# 结束
+echo "end\n"
